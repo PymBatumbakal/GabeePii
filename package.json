@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "inquire": "^0.4.8",
+    "inquirer": "^12.4.1",
+    "qr-image": "^3.2.0",
+    "sillyname": "^0.1.0",
+    "superheroes": "^4.0.0"
+  },
+  "name": "gabpogi",
+  "version": "1.0.0",
+  "description": "npm yes yes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PymBatumbakal/GabeePii.git"
+  },
+  "author": "Gab Pogi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PymBatumbakal/GabeePii/issues"
+  },
+  "homepage": "https://github.com/PymBatumbakal/GabeePii#readme"
+}
